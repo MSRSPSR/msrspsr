@@ -1,16 +1,15 @@
-### Hi there 👋
+👋🏾 Hey there, I'm Muhammed (people just call me mo) and I'm a full stack software engineer with a focus on Javascript, interested in data structures and algorithms.
 
-<!--
-**mabioIa/mabioIa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meta
+- Currently reading - Computer Science Distilled
+- Currently writing on [/usr/share/blog](https://blog.mabiola.net)
+- Currently learning TypeScript and React.
 
-Here are some ideas to get you started:
+## Favorite Tools
+* MongoDB
+* NodeJS
+* NeoVIM
+* Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me on [Twitter](https://twitter.com/mabioia) or [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
+
