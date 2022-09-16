@@ -1,9 +1,9 @@
 👋🏾 Hey there, I'm Muhammed (people just call me mo) and I'm a full stack software engineer with a focus on Javascript, interested in data structures and algorithms.
 
 ## Meta
-- Currently reading - Computer Science Distilled
+- Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 - Currently writing on [/usr/share/blog](https://blog.mabiola.net)
-- Currently learning TypeScript and React.
+- Currently learning TypeScript and React
 
 ## Favorite Tools
 * MongoDB
