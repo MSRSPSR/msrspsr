@@ -6,7 +6,7 @@
 - Currently learning AWS, TypeScript and React
 
 ## Favorite Tools
-* MongoDB
+* Prisma
 * NodeJS
 * NeoVIM
 * Z Shell
