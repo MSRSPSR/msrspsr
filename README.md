@@ -13,5 +13,5 @@
 * Z Shell
 * Tailwind CSS
 
-You can reach me on [Twitter](https://twitter.com/mabioia), [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
+You can reach me on [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
 
