@@ -1,4 +1,4 @@
-👋🏾 Hey there, I'm Muhammed (people just call me mo) and I'm a full stack software engineer with a focus on Javascript, interested in data structures and algorithms.
+👋🏾 Hey there, I'm Muhammed (people just call me mo) and I'm a software engineer primarily focused on Javascript and interested in data structures and algorithms.
 
 ## Meta
 - Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
@@ -8,7 +8,8 @@
 ## Favorite Tools
 * Prisma
 * NodeJS
-* NeoVIM
+* Emacs using DooM!
+* Neo/vIM
 * Z Shell
 * Tailwind CSS
 
