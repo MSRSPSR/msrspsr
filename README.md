@@ -8,7 +8,7 @@
 ## Favorite Tools 
 * Prisma
 * NodeJS
-* Emacs using DooM!
+* Emacs using [DooM](https://github.com/doomemacs/doomemacs)!
 * Neo/vIM
 * Z Shell
 * Tailwind CSS
