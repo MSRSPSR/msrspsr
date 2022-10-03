@@ -5,7 +5,7 @@
 - Currently writing on [/usr/share/blog](https://blog.mabiola.net)
 - Currently learning AWS, TypeScript and React
 
-## Favorite Tools
+## Favorite Tools 
 * Prisma
 * NodeJS
 * Emacs using DooM!
@@ -13,5 +13,5 @@
 * Z Shell
 * Tailwind CSS
 
-You can reach me on [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
+🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
 
