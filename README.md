@@ -3,7 +3,7 @@
 ## Meta
 - Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020)
 - Currently writing on [/usr/share/blog](https://blog.mabiola.net)
-- Currently learning AWS, TypeScript and React
+- Currently learning [AWS](https://github.com/mabioia/cloud/AWS), [TypeScript](https://github.com/mabioia/languages/typescript) and [React](https://github.com/mabioia/languages/javascript/react)
 
 ## Favorite Tools 
 * [Prisma](https://prisma.io)
