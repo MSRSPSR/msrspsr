@@ -6,6 +6,7 @@
 - Currently learning [AWS](https://github.com/mabioia/cloud/AWS), [TypeScript](https://github.com/mabioia/languages/typescript) and [React](https://github.com/mabioia/languages/javascript/react)
 
 ## Favorite Tools 
+* [AWS](https://aws.amazon.com) (EC2, S3, LightSail)
 * [Prisma](https://prisma.io)
 * [NodeJS](https://nodejs.org)
 * [Emacs](https://www.gnu.org/software/emacs) using [DooM](https://github.com/doomemacs/doomemacs)!
