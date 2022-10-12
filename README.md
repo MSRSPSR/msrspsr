@@ -1,4 +1,4 @@
-👋🏾 Hey there, I'm Muhammed (people just call me mo) and I'm a software engineer primarily focused on Javascript and interested in data structures and algorithms.
+👋🏾 Hey there, I'm [Muhammed](https://linkedin.com/in/mxa) (people just call me mo) and I'm a software engineer primarily focused on Javascript and interested in data structures and algorithms.
 
 ## Meta
 - Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020), [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) and [The Linux Command Line](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894).
