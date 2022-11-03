@@ -14,5 +14,5 @@
 * [Z Shell](https://zsh.sourceforge.io) using [OMZ](https://ohmyz.sh)!
 * [Tailwind CSS](https://tailwindcss.com)
 
-🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mabiola#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
+🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mxa#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
 
