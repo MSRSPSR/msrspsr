@@ -13,13 +13,14 @@
 * [Z Shell](https://zsh.sourceforge.io) using [OMZ](https://ohmyz.sh)!
 * [Tailwind CSS](https://tailwindcss.com)
 
-🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mxa#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
-
-<!-- [![wakatime](https://wakatime.com/badge/user/f290c65d-8fdf-463f-9c78-8ee988a4a81a.svg)](https://wakatime.com/@f290c65d-8fdf-463f-9c78-8ee988a4a81a)
--->
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mxa#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
+
+<!-- [![wakatime](https://wakatime.com/badge/user/f290c65d-8fdf-463f-9c78-8ee988a4a81a.svg)](https://wakatime.com/@f290c65d-8fdf-463f-9c78-8ee988a4a81a)
+-->
