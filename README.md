@@ -13,6 +13,7 @@
 * [Z Shell](https://zsh.sourceforge.io) using [OMZ](https://ohmyz.sh)!
 * [Tailwind CSS](https://tailwindcss.com)
 
+## Recent writing
 <!-- BLOG-POST-LIST:START -->
 - [From binary with love: Solving the ALX SWE Challenge](https://blog.mabiola.net/from-binary-with-love-solving-the-alx-swe-challenge)
 <!-- BLOG-POST-LIST:END -->
