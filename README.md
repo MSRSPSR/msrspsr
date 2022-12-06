@@ -14,6 +14,7 @@
 * [Tailwind CSS](https://tailwindcss.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [From binary with love: Solving the ALX SWE Challenge](https://blog.mabiola.net/from-binary-with-love-solving-the-alx-swe-challenge)
 <!-- BLOG-POST-LIST:END -->
 
 <hr />
