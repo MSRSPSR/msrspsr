@@ -16,6 +16,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<hr />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
