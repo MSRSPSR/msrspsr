@@ -18,7 +18,6 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/f290c65d-8fdf-463f-9c78-8ee988a4a81a.svg)](https://wakatime.com/@f290c65d-8fdf-463f-9c78-8ee988a4a81a)
 -->
 
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
