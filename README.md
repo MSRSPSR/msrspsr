@@ -2,7 +2,6 @@
 
 ## Meta
 - Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020), [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) and [The Linux Command Line](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894).
-- Currently writing on [/usr/share/blog](https://blog.mabiola.net)
 - Currently learning [AWS](https://github.com/mabioia/cloud/AWS), [TypeScript](https://github.com/mabioia/languages/typescript) and [React](https://github.com/mabioia/languages/javascript/react)
 
 ## Favorite Tools 
@@ -18,6 +17,10 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/user/f290c65d-8fdf-463f-9c78-8ee988a4a81a.svg)](https://wakatime.com/@f290c65d-8fdf-463f-9c78-8ee988a4a81a)
 -->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
