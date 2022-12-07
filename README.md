@@ -20,6 +20,8 @@
 
 <hr />
 
+### WakaTime Weekly Metrics
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -32,6 +34,3 @@ Other      17 mins         ▒░░░░░░░░░░░░░░░░�
 
 
 🤙🏾 You can reach me on [Discord](https://discordapp.com/channels/@me/mxa#1472), set a [Calendly](https://calendly.com/mabla) or just [email](mailto://hi<NOSPAM>@mabiola.net) me.
-
-<!-- [![wakatime](https://wakatime.com/badge/user/f290c65d-8fdf-463f-9c78-8ee988a4a81a.svg)](https://wakatime.com/@f290c65d-8fdf-463f-9c78-8ee988a4a81a)
--->
