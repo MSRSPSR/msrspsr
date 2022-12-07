@@ -21,6 +21,13 @@
 <hr />
 
 <!--START_SECTION:waka-->
+
+```text
+C          26 hrs 10 mins  ████████████████████████░   96.01 %
+Markdown   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Other      17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+```
+
 <!--END_SECTION:waka-->
 
 
