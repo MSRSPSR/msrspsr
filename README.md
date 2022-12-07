@@ -19,7 +19,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-### WakaTime Monthly Metrics
+#### WakaTime Monthly Metrics
 
 <!--START_SECTION:waka-->
 
