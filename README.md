@@ -20,7 +20,7 @@
 
 <hr />
 
-### WakaTime Weekly Metrics
+### WakaTime Monthly Metrics
 
 <!--START_SECTION:waka-->
 
