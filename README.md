@@ -4,7 +4,7 @@
 - Currently reading [Computer Science Distilled](https://www.amazon.com/Computer-Science-Distilled-Computational-Problems/dp/0997316020), [The C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) and [The Linux Command Line](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894).
 - Currently learning [AWS](https://github.com/mabioia/cloud/AWS), [TypeScript](https://github.com/mabioia/languages/typescript) and [React](https://github.com/mabioia/languages/javascript/react)
 
-### Favorite Tools 
+#### Favorite Tools 
 * [AWS](https://aws.amazon.com) (EC2, S3)
 * [Prisma](https://prisma.io)
 * [NodeJS](https://nodejs.org)
@@ -13,7 +13,7 @@
 * [Z Shell](https://zsh.sourceforge.io) using [OMZ](https://ohmyz.sh)!
 * [Tailwind CSS](https://tailwindcss.com)
 
-### Recent writing
+#### Recent writing
 <!-- BLOG-POST-LIST:START -->
 - [From binary with love: Solving the ALX SWE Challenge](https://blog.mabiola.net/from-binary-with-love-solving-the-alx-swe-challenge)
 <!-- BLOG-POST-LIST:END -->
