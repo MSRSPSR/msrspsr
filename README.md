@@ -24,12 +24,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 111 hrs 15 mins
+Total Time: 106 hrs 42 mins
 
-C          108 hrs 7 mins  ████████████████████████▒   97.20 %
-Makefile   57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Markdown   45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Other      42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+C          103 hrs 54 mins ████████████████████████▒   97.38 %
+Markdown   45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Makefile   40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other      40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
