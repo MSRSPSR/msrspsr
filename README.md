@@ -24,10 +24,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 91 hrs 58 mins
+Total Time: 91 hrs 20 mins
 
-C          89 hrs 57 mins  ████████████████████████▒   97.80 %
-Other      39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C          89 hrs 19 mins  ████████████████████████▒   97.79 %
+Other      38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
